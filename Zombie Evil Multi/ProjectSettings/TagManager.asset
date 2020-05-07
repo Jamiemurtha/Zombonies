@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bullet
+  - Enemy
+  - SMGBullet
+  - Weapon
+  - Wood
+  - Rock
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Map
+    uniqueID: 3831640611
+    locked: 0
+  - name: Object
+    uniqueID: 2362551133
+    locked: 0
+  - name: 'Player '
+    uniqueID: 4285675343
+    locked: 0
+  - name: Zombie
+    uniqueID: 2023398813
+    locked: 0
+  - name: UI
+    uniqueID: 3247921583
+    locked: 0
